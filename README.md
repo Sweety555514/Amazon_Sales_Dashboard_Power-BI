@@ -1,6 +1,6 @@
-# Amazon_Sales_Dashboard_Power-BI
 
-# 🛒 Amazon Sales & Order Analysis Dashboard – Power BI
+
+# Amazon Sales & Order Analysis Dashboard – Power BI
 
 ## 📊 Project Overview
 
@@ -135,8 +135,7 @@ This makes the dashboard useful for exploring performance across different repor
 
 ## 📷 Dashboard Preview
 
-![Amazon Sales Dashboard](Amazon_Dashboard.png)
-
+https://github.com/Sweety555514/Amazon_Sales_Dashboard_Power-BI/blob/main/Amazone_Sales_Dashboard.png
 ---
 
 ## 📚 Skills Demonstrated
@@ -190,4 +189,4 @@ The dashboard converts e-commerce data into an easy-to-understand visual report 
 
 **Sweety Sinha**
 
-🔗 LinkedIn: www.linkedin.com/in/sweety-sinha-8a91622b3
+🔗 www.linkedin.com/in/sweety-sinha-8a91622b3
